@@ -1,0 +1,21 @@
+# Core System Requirements
+
+## Backend (Node.js/Express)
+express
+mongoose
+jsonwebtoken
+bcryptjs
+cors
+dotenv
+validator
+nodemon (Dev dependency)
+
+## Frontend (React/Vite)
+react
+react-router-dom
+lucide-react
+recharts
+tailwindcss
+
+## Database
+MongoDB (v6.0+)
