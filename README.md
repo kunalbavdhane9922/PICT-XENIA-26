@@ -1,3 +1,4 @@
+
 # FlowState: AI-Enhanced Task & Energy Manager
 
 ![FlowState Banner](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=1200&q=80)
@@ -103,3 +104,6 @@ This project is licensed under the MIT License.
 
 ---
 Built with ❤️ for advanced productivity management.
+=======
+# PICT-XENIA-26
+AI-powered productivity dashboard that optimizes task execution using real-time energy tracking, behavioral analytics, and intelligent task recommendations. Built with React, Node.js, and MongoDB.
